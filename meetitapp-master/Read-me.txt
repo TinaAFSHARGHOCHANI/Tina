@@ -1,0 +1,1 @@
+For running the project select select the Pom.xml file
